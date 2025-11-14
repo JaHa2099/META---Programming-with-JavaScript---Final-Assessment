@@ -1,0 +1,13 @@
+Goal:
+
+The goal of this lab is to build a dynamic receipt maker by implementing logic for calculating dish prices with or without tax and providing discounts based on the number of guests.
+
+Objectives: 
+
+Understand and apply loops and conditionals to manipulate and display array data.
+
+Learn to handle parameters and arguments effectively in function definitions.
+
+Practice defensive coding by validating inputs.
+
+Use logical operations to implement dynamic pricing and discounts.
